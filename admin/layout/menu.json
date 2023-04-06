@@ -1,0 +1,23 @@
+[
+    {
+        "id":"3",
+        "label":"Blog",
+        "url":"/admin-blog",
+        "icon":"fa fa-book",
+        "dropdown" : false
+    },
+    {
+        "id":"2",
+        "label":"Service",
+        "url":"/admin-service",
+        "icon":"fa fa-briefcase",
+        "dropdown" : false
+    },
+    {
+        "id":"1",
+        "label":"Contact",
+        "url":"/admin-contact",
+        "icon":"fa fa-envelope-o",
+        "dropdown" : false
+    }
+    ]

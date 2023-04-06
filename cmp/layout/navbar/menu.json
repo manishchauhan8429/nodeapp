@@ -1,0 +1,36 @@
+[
+    {
+        "id":"2",
+        "label":"Home",
+        "url":"/",
+        "dropdown" : false
+    },
+
+    {
+        "id":"3",
+        "label":"Service",
+        "url":"/service",
+        "dropdown" : false
+    },
+
+    {
+        "id":"4",
+        "label":"Blog",
+        "url":"/blog",
+        "dropdown" : false
+    },
+
+    {
+        "id":"5",
+        "label":"About",
+        "url":"/about-us",
+        "dropdown" : false
+    },
+
+    {
+        "id":"",
+        "label":"Contact",
+        "url":"/contact-us",
+        "dropdown" : false
+    }
+]

@@ -1,0 +1,25 @@
+.headermodal {
+    color: #104cba;
+    font-size: 20px;
+    font-weight: 600;
+    background: linear-gradient(to right, #104cba, #00ccff, #104cba);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.contactBtn {
+    padding: 7px 20px;
+    background-color: #0a58c8;
+    color: white;
+    border: 1px solid white;
+    transition: 0.5s;
+}
+
+.contactBtn:hover {
+    background-color: white;
+    color: #323232;
+    border-radius: 5px;
+    transition: 0.5s;
+    border: 1px solid #323232;
+}

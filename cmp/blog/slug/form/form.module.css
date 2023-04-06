@@ -1,0 +1,13 @@
+.postbtn {
+    background-color: #104CBA;
+    font-size: 17px;
+    font-weight: 500;
+    transition: 0.5s;
+    
+}
+
+.postbtn:hover {
+    background-color: #091D3E;
+    transition: 0.5s;
+
+}

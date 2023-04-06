@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "imagePath":"/blogone.jpg",
+        "date":"April 6, 2022",
+        "title":"Providing top quality cleaning and related services charms.",
+        "blogLink":"/",
+        "desc":"Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts",
+        "username":"Crysa",
+        "userlink":"/"
+    },
+    {
+        "id":"2",
+        "imagePath":"/blogtwo.jpg",
+        "date":"June 13, 2022",
+        "title":"Discovery incommode earnestly commanded mentions.",
+        "blogLink":"/",
+        "desc":"Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts",
+        "username":"Crysa",
+        "userlink":"/"
+    },
+    {
+        "id":"3",
+        "imagePath":"/blogthree.jpg",
+        "date":"June 14, 2022",
+        "title":"Everything melancholy uncommonly but solicitude.",
+        "blogLink":"/",
+        "desc":"Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts",
+        "username":"Crysa",
+        "userlink":"/"
+    }
+]

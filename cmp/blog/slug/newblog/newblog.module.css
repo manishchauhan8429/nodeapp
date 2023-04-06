@@ -1,0 +1,158 @@
+.blogPara {
+    color:#666666;
+    line-height:27px;
+    font-size:17px;
+
+}
+
+.bluebox {
+    background-color: #091D3E;
+}
+
+.bluebox p{
+    font-size: 22px;
+    font-style: italic;
+    line-height: 37px;
+    color: #B1C2F5;
+    padding: 20px 10px;
+}
+
+.tagbtn{
+    font-size: 12px;
+    padding: 10px 20px;
+}
+.tagbtn:hover{
+    font-size: 12px;
+    background-color: #104CBA;
+    color: white;
+}
+
+.prebtn {
+    background-color: #E7F1FD;
+    border: none;
+    color: black;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
+.prebtn:hover {
+    background-color: #0B5ED7;
+    transition: 0.5s;
+}
+
+
+
+
+.searchDiv, .tagdiv {
+    width: 100%;
+    background-color: #F4F5F8;
+    padding-bottom: 60px !important;
+}
+
+.serchLabel {
+    color:#666666;
+    font-weight:700;
+    font-size:16px;
+}
+
+.frmInp {
+    height: 50px;
+    width: 80%;
+    color: #323232;
+    padding-left: 10px;
+    border-radius: 5px;
+    background-color: #ffff;
+    border: none;
+    outline: none !important;
+}
+
+.mainfrm {
+    background-color: #ffff;
+    padding: 4px;
+    border: 1px solid #dddd;
+    border-radius: 5px;
+}
+
+.mainfrm button {
+    background-color: #104CBA; 
+    font-size: 14px; 
+    font-weight: 600;
+    transition: 0.5s;  
+}
+
+.mainfrm button:hover {
+    background-color: #091D3E;
+    transition: 0.5s;  
+    
+}
+
+.minirecentdiv,.categorydiv {
+    width: 100%;
+    background-color: #F4F5F8;
+}
+
+.minirecentdiv h4 {
+    font-size: 22px;
+    color: #232323;
+    font-weight: 600;
+}
+
+.recentHr {
+    width: 50px;
+    border: 1px solid #104CBA;
+}
+
+.minirecent p{
+    font-size: 13px;
+    font-weight: 500;
+    color:  #837F7E;
+    padding: 0;
+    margin: 0;
+}
+
+.minirecent h6 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.minirecent h6:hover {
+    color: #104CBA;
+    transition: 0.5s;
+}
+
+.cathead,.taghead {
+    font-size: 20px;
+    color: #232323;
+    font-weight: 600;
+}
+
+.categorydiv p {
+    font-size: 16px;
+    font-weight:550;
+    color: #454545;
+}
+
+.categorydiv hr {
+    border-color:gray;
+}
+
+.tagdiv Button {
+    background-color: #DDE4ED;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: #232323;
+    font-size: 13px;
+    padding: 10px 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.tagdiv Button:hover {
+    transition: 0.5s;
+}
+

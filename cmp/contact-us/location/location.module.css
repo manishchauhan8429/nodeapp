@@ -1,0 +1,28 @@
+
+.maincont {
+    position: relative;
+}
+
+
+.formdiv {
+    background-color: white !important;
+    z-index: 1;
+    padding: 50px;
+    box-shadow: 0px 8px 16px #ccc;
+    width: 650px;
+    position: absolute;
+    right: 100px;
+    top:100px;
+
+}
+
+
+@media(max-width:768px) {
+    .formdiv {
+        width: 650px;
+        position: absolute;
+        right: 0px;
+        top:500px;
+    
+    }
+}

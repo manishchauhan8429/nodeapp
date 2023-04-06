@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "img":"/chandan-raj.jpg",
+        "name":"Chandan Raj",
+        "title":"Front-end Developer",
+        "fb":"https://www.facebook.com/chandan.raj.dos/",
+        "insta":"https://www.instagram.com/chandan_raj_dos/",
+        "linkd":"https://www.linkedin.com/"
+
+    },
+
+    {
+        "id":"2",
+        "img":"/manu.png",
+        "name":"Manu Kumar",
+        "title":"Front-end Developer",
+        "fb":"https://www.facebook.com/dev.manukumar/",
+        "insta":"https://www.instagram.com/ig_manu_kumar/",
+        "linkd":"https://www.linkedin.com/in/manu-kumar-7a5141248/"
+    },
+
+    {
+        "id":"3",
+        "img":"/prabhat.jpg",
+        "name":"Prabhat Kumar",
+        "title":"Backend Developer",
+        "fb":"https://www.facebook.com/profile.php?id=100086599328579",
+        "insta":"https://www.instagram.com/prabhat_offical_1323/",
+        "linkd":"https://www.linkedin.com/in/prabhat-kumar-7b26a7124/"
+    },
+
+    {
+        "id":"4",
+        "img":"/dev_avatar.png",
+        "name":"Jitendra Kumar",
+        "title":"Backend Developer",
+        "fb":"https://www.facebook.com/",
+        "insta":"https://www.instagram.com/",
+        "linkd":"https://www.linkedin.com/"
+    }
+]

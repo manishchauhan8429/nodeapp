@@ -1,0 +1,93 @@
+.mainCont {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.rightDiv {
+    padding: 60px;
+}
+
+.allText h4 {
+    color: #104cba;
+    font-size: 20px;
+    font-weight: 600;
+    background: -webkit-gradient(linear, left top, right top, from(#104cba), color-stop(#00ccff), to(#104cba));
+    background: linear-gradient(to right, #104cba, #00ccff, #104cba);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;    
+}
+
+.allText h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.allText p{
+    font-size: 16px;
+    color: #666666;
+    line-height: 27.2px;
+    margin-bottom: 20px;
+}
+
+.optionDiv {
+    display: flex;
+    padding-top: 10px;
+}
+
+.optionDiv h5{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.optionDiv p{
+    font-size: 16px;
+    color: #666666;
+    line-height: 27.2px;
+}
+
+.iconBox {
+    background: linear-gradient(to right, #02218f, #0e72e3, #02218f);
+}
+
+.iconBox2 {
+    background: linear-gradient(to right, #F3001D, #FFB400);
+}
+.iconBox, .iconBox2 {
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    line-height: 25px;    
+    color: #ffffff;
+    background-size: 200% 150%;
+    box-shadow: 0 10px 13px rgb(46 151 0 / 21%);
+    border-radius: 50%;
+    font-size: 12px;
+}
+
+@media(max-width:768px){
+    .allText h2 {
+        font-size: 20px;
+    }
+
+    .allText p {
+        line-height: 20px;
+    }
+    
+    .mainCont {
+        padding-top: 80px !important;
+        padding-bottom: 70px !important;
+    }
+
+    .rightDiv {
+        padding: 20px;
+    }
+
+    .optionDiv {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

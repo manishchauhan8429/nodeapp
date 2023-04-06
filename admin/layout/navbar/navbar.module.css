@@ -1,0 +1,58 @@
+.iconBox{
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+
+.profileBox{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+.iconBox:hover,.profileBox:hover{
+    background-color: #EBF2FF;
+}
+
+.iconBox i{
+    font-size: 14px !important;
+    color: #616161 !important;
+}
+
+.onlineStatus {
+    width: 12px;
+    height: 12px;
+    background-color: #00C9A7;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    position: absolute;
+    bottom: 7px;
+    right: 45px;
+}
+
+.searchBox {
+    border-radius: 5px;
+}
+.searchBox:hover {
+    background-color:#F2F2F2;
+}
+.searchBox input:hover {
+    background-color:#F2F2F2 !important;
+}
+
+.searchBox i{
+    color: #8C98A4;
+    font-size: 14px;
+}
+.searchBox input {
+    border: 0;
+    width: 330px;
+    padding-left: 45px;
+}
+
+.searchBox input:focus {
+    background-color: #F2F2F2;
+    border: 0;
+    box-shadow: none !important;
+}
+

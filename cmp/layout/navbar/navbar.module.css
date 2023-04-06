@@ -1,0 +1,35 @@
+.mynav{
+    color:black !important;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.mynav:hover{
+    color:#1550BA !important;
+    transition: 0.5s;
+}
+
+         
+.btnGrad {
+    background-image: linear-gradient(to right, #032795 0%, #0A59C9  51%, #032795 100%);
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white; 
+    width: 150px;           
+    border-radius: 5px;
+    padding: 15px 10px;
+    font-weight: bold;
+  }
+
+  .btnGrad:hover {
+    background-position: right center; /* change the direction of the change here */
+  }
+ 
+@media(max-width:768px) {
+    .btnGrad {
+        padding: 5px 0px;
+        margin:  10px auto;
+    } 
+}

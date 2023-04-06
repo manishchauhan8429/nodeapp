@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1",
+        "path" : "/database.png",
+        "title" : "UI & UX Design",
+        "icon" : "fa fa-long-arrow-right",
+        "description" :"we provide the monst effective and useful ui design and ux design ."
+    },
+
+    {
+        "id" : "2",
+        "path" : "/cloud.png",
+        "title" : "Digital Marketing",
+        "icon" : "fa fa-long-arrow-right",
+        "description" :"Digital marketing is a way to grab your target audience. Advertise, analyze."
+    },
+    
+    {
+        "id" : "3",
+        "path" : "/it.png",
+        "title" : "Cloud Service",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "Focusing on our customers lets us build better attractive website together."
+    },
+
+    
+    {
+        "id" : "4",
+        "path" : "/data.png",
+        "title" : "Web Devlopment",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "We provide the most functional IT companies and businesses worldwide."
+    }
+]
